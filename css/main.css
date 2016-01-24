@@ -115,6 +115,24 @@ article p {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.nav-tabs {
+    border: none;
+}
+
+.nav-tabs li {
+    
+    
+}
+
+.nav-tabs li a {
+    width: 70%;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    background-color: #2F8B94;
+    border:none;
+    margin-left: 10%;
+}
 
 
 
